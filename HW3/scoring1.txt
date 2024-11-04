@@ -1,0 +1,2 @@
+#match,mismatch,gap
+1,-5,-3

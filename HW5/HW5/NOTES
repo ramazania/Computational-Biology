@@ -1,0 +1,7 @@
+sample.fasta - An example Fasta file that can be used to simulate reads
+
+reads.txt - An example set of reads with coverage = 12, read length = 50
+and error = 0.01
+
+example.dot - An example dot file.  To create a png run the following:
+$ dot -Tpng example.dot -o example.png

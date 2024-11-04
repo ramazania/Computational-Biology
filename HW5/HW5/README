@@ -1,0 +1,6 @@
+Dependencies in assemble.py:
+1. from collections import defaultdict
+Outside resources: 
+1. https://graphviz.gitlab.io/documentation/
+2. https://en.wikipedia.org/wiki/DOT_(graph_description_language)
+3. https://www.geeksforgeeks.org/defaultdict-in-python/ 

@@ -1,0 +1,12 @@
+A description of any known bugs
+    - I get an error that says maximum recursion depth reached when calling the hirschberg's algorithm recursively. I decided to remove the recursion to make the code work for now. 
+
+The names of anyone you discussed the project with and any outside resources you consulted when writing the code.
+
+    1. Professor Layla helped me understand how the algorithm works on a high level.
+    
+    2. Wikimedia Foundation. (2023, December 11). Hirschberg’s algorithm. Wikipedia. https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm#:~:text=Hirschberg’s%20algorithm%20is%20simply%20described,of%20DNA%20and%20protein%20sequences  
+
+    3. Bioinformatics Algorithms: An Active Learning Approach. (2014, May 19). Space-efficient sequence alignment. YouTube. https://www.youtube.com/watch?v=3TfDm8GpWRU&ab_channel=BioinformaticsAlgorithms%3AAnActiveLearningApproach   
+
+    4. Wayne, K. (2021, May 19). Sequence alignment - Hirschberg′s algorithm. https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/06DynamicProgrammingII.pdf   

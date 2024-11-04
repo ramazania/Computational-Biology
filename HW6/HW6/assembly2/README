@@ -1,0 +1,9 @@
+How to compile your code (if necessary) and any dependencies (i.e. BioJava, Biopython).
+- from collections import defaultdict
+A description of any known bugs.
+- the assemble2.py does not output the correct n50 and l50 values and I am not sure what is the problem.
+Any major design decisions that may affect the output of your programs.
+- I used dfs algorithm to traverse the graph
+The names of anyone you discussed the project with and any outside resources you consulted when writing the code.
+- dfs search: https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+- De Bruijn graph: https://en.wikipedia.org/wiki/De_Bruijn_graph#:~:text=In%20graph%20theory%2C%20an%20n,multiple%20times%20in%20a%20sequence. 

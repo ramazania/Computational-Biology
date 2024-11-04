@@ -1,0 +1,10 @@
+How to compile your code (if necessary) and any dependencies (i.e. BioJava, Biopython).
+    - I used BioPython for parsing FASTA files: https://biopython.org/DIST/docs/tutorial/Tutorial.pdf (page 18 of PDF)
+A description of any known bugs
+    - No errors that I encountered. I didn't do error handling so it's possible to encounter errors.
+Any major design decisions that may affect the output of your programs.
+    - I tried to follow the output format described in the assignment.
+The names of anyone you discussed the project with and any outside resources you consulted when writing the code.
+    - Annotated local alignment worksheet from moodle
+    - I did some online searches to learn how numpy, sys, and BioPython works
+    - This video helped me get a better understanding of the algorithm: https://www.youtube.com/watch?v=lu9ScxSejSE&ab_channel=Bioinformatica

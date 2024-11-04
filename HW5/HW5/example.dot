@@ -1,0 +1,6 @@
+digraph mygraph{
+	"ATG"->"TGC"
+	"ATG"->"TGG"
+	"GTG"->"TGG"
+	"TGG"->"GGC"
+}
